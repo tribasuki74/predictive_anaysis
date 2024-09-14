@@ -1,35 +1,3 @@
-archspec @ file:///home/conda/feedstock_root/build_artifacts/archspec_1708969572489/work
-boltons @ file:///home/conda/feedstock_root/build_artifacts/boltons_1711936407380/work
-Brotli @ file:///Users/runner/miniforge3/conda-bld/brotli-split_1695989934239/work
-certifi @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_0ecs_ou28u/croot/certifi_1725551740278/work/certifi
-cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1696001737800/work
-charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1698833585322/work
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
-conda @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_6fdicqiami/croot/conda_1722004613620/work
-conda-libmamba-solver @ file:///home/conda/feedstock_root/build_artifacts/conda-libmamba-solver_1706566000184/work/src
-conda-package-handling @ file:///home/conda/feedstock_root/build_artifacts/conda-package-handling_1691048088238/work
-conda_package_streaming @ file:///home/conda/feedstock_root/build_artifacts/conda-package-streaming_1691009212940/work
-distlib==0.3.8
-distro @ file:///home/conda/feedstock_root/build_artifacts/distro_1704321475663/work
-filelock==3.16.0
-frozendict @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_8b0cest_id/croot/frozendict_1713194839836/work
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1701026962277/work
-jsonpatch @ file:///home/conda/feedstock_root/build_artifacts/jsonpatch_1695536281965/work
-jsonpointer @ file:///Users/runner/miniforge3/conda-bld/jsonpointer_1695397382064/work
-libmambapy @ file:///Users/runner/miniforge3/conda-bld/mamba-split_1711394373090/work/libmambapy
-mamba @ file:///Users/runner/miniforge3/conda-bld/mamba-split_1711394373090/work/mamba
-menuinst @ file:///Users/runner/miniforge3/conda-bld/menuinst_1705068367719/work
-packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1710075952259/work
-platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1706713388748/work
-pluggy @ file:///home/conda/feedstock_root/build_artifacts/pluggy_1706116770704/work
-pycosat @ file:///Users/runner/miniforge3/conda-bld/pycosat_1696355969704/work
-pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1711811537435/work
-PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241324/work
-ruamel.yaml @ file:///Users/runner/miniforge3/conda-bld/ruamel.yaml_1707298382103/work
-ruamel.yaml.clib @ file:///Users/runner/miniforge3/conda-bld/ruamel.yaml.clib_1707314852085/work
-tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1707598593068/work
-truststore @ file:///home/conda/feedstock_root/build_artifacts/truststore_1694154605758/work
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1708239446578/work
-virtualenv==20.26.4
-zstandard==0.22.0
+fastapi[standard]>=0.113.0,<0.114.0
+pydantic>=2.7.0,<3.0.0
+scikit-learn
